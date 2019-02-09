@@ -1,0 +1,4 @@
+coverage
+spec/huginn
+.env
+Gemfile.lock

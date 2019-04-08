@@ -1,6 +1,7 @@
 # TimeFilterAgent
 
 [![Gem Version](https://badge.fury.io/rb/huginn_time_filter_agent.svg)](https://badge.fury.io/rb/huginn_time_filter_agent)
+[![Build Status](https://travis-ci.org/nighthawk/huginn_time_filter_agent.svg?branch=master)](https://travis-ci.org/nighthawk/huginn_time_filter_agent)
 
 The Time Filter Agent filters events based on whether a 24h or AM/PM time in them is within a provided range.
 
